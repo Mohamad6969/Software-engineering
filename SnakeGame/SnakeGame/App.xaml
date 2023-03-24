@@ -6,7 +6,7 @@
     <Application.Resources>
         <SolidColorBrush x:Key="BackgroundColor">#023020</SolidColorBrush>
         <SolidColorBrush x:Key="GridBackgroundColor">#90ee90</SolidColorBrush>
-        <SolidColorBrush x:Key="GridLineColor">#8a8a8a</SolidColorBrush>
+        <SolidColorBrush x:Key="GridLineColor">#FF0C0404</SolidColorBrush>
         <SolidColorBrush x:Key="TextColor">#EBEBEB</SolidColorBrush>
         <SolidColorBrush x:Key="OverlayColor">#7F000000</SolidColorBrush>
         <FontFamily x:Key="MainFont" >Assests/#Droid Sans Mono</FontFamily>

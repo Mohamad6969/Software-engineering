@@ -4,3 +4,37 @@ D:\GitHubstuff\Software-engineering\Game\SnakeGame\SnakeGame\obj\Debug\MainWindo
 D:\GitHubstuff\Software-engineering\Game\SnakeGame\SnakeGame\obj\Debug\App.g.cs
 D:\GitHubstuff\Software-engineering\Game\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
 D:\GitHubstuff\Software-engineering\Game\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\App.g.cs
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\App.baml
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\GitHubstuff\Software-engineering\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\MainWindow.g.cs
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\App.g.cs
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\App.baml
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\MainWindow.baml
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.g.resources
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Mohamad\Desktop\Snake Game\SnakeGame\obj\Debug\SnakeGame.pdb
