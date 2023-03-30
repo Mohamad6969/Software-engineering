@@ -89,20 +89,7 @@ namespace SnakeNUnitTests
 
         }
 
-        [TestMethod]
-        public void Bigger_Snake()
-        {
-
-
-
-            // act
-            
-
-
-            // ASSERT
-
-
-        }
+        
 
 
 
