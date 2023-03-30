@@ -23,6 +23,8 @@ namespace SnakeNUnitTests
 
             // ARRANGE
             gridvalue_Outside = new GridValue();
+
+            
         }
         
           
@@ -87,7 +89,22 @@ namespace SnakeNUnitTests
 
         }
 
-       
+        [TestMethod]
+        public void Bigger_Snake()
+        {
+
+
+
+            // act
+            
+
+
+            // ASSERT
+
+
+        }
+
+
 
     }
 }
